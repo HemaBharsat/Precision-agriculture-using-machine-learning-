@@ -24,14 +24,12 @@ The primary objectives of the Precision Farming Analysis project are as follows:
 
 ## Code exploration of the ML model
 
-Exploration
 ![data_exploration](image.png)
 
-Model accuracy
 ![97% Model Accuracy](image-1.png)
 
-Prediction's by the model
 ![predictions](image-2.png)
+
 ![output](image-3.png)
 
 ## Conclusion
