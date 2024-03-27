@@ -5,7 +5,7 @@ import pickle
 crop_recommendation_model_path = "Crop_Recommendation.pkl"
 crop_recommendation_model = pickle.load(open(crop_recommendation_model_path, 'rb'))
 
-input_file_path = "/Data/data.csv"
+input_file_path = "Data/data.csv"
 output_file_path = "Data/data_p.csv"
 df = pd.read_csv(input_file_path)
 

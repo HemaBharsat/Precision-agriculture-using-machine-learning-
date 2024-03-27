@@ -8,7 +8,6 @@ from sklearn.neighbors import KNeighborsClassifier
 from sklearn.metrics import accuracy_score
 from sklearn import model_selection
 
-
 crop = pd.read_csv('Data/crop_recommendation.csv')
 X = crop.iloc[:,:-1].values
 Y = crop.iloc[:,-1].values
