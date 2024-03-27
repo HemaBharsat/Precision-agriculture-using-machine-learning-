@@ -19,8 +19,8 @@ The primary objectives of the Precision Farming Analysis project are as follows:
 
 ## Dataset Link-
 
-https://www.kaggle.com/datasets/siddharthss/crop-recommendation-dataset?resource=download
-https://weatherandclimate.com/
+1. https://www.kaggle.com/datasets/siddharthss/crop-recommendation-dataset?resource=download
+2. https://weatherandclimate.com/
 
 ## Code exploration of the ML model
 
