@@ -2,7 +2,7 @@ import pandas as pd
 import numpy as np
 import os 
 
-file_path = "C:\\Users\\Hema\\PycharmProjects\\model_files\\Data\\crop_recommendation.csv"
+file_path = "Data/crop_recommendation.csv"
 training_data = pd.read_csv(file_path)
 
 n_range = (training_data['N'].min(), training_data['N'].max())

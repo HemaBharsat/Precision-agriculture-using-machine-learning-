@@ -9,7 +9,7 @@ from sklearn.metrics import accuracy_score
 from sklearn import model_selection
 
 
-crop = pd.read_csv('C:\\Users\\Hema\\PycharmProjects\\model_files\\Data\\crop_recommendation.csv')
+crop = pd.read_csv('Data/crop_recommendation.csv')
 X = crop.iloc[:,:-1].values
 Y = crop.iloc[:,-1].values
 
