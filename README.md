@@ -1,6 +1,6 @@
 # Precision-agriculture-using-machine-learning-
 
-## Problem Statement :
+## Problem Statement
 
 Indian agriculture encounters multifaceted challenges, including diverse climatic conditions, varying soil compositions, and the need for crop diversification. Farmers often face difficulties in selecting appropriate crops for their regions, leading to suboptimal yields and resource mismanagement. Bridging this gap between available data and informed decision-making remains a critical need.
 
